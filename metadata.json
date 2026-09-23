@@ -1,0 +1,6 @@
+{
+  "name": "VAPEX | Urban Vape & Lifestyle Studio",
+  "description": "Premium electronic vape devices, 15K puff smart pods, vintage corduroy caps, tactical slings, and heavyweight streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
